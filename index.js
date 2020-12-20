@@ -1,1 +1,2 @@
-console.log(111);
+console.log(222);
+let str = 10;
